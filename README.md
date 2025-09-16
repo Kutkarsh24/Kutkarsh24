@@ -1,4 +1,4 @@
-![Cyber Banner](https://media.tenor.com/2y1WgkQhWf0AAAAC/cyber-security.gif)
+![Cyber Banner]([https://media.tenor.com/2y1WgkQhWf0AAAAC/cyber-security.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmhuc3pyMW44MmE5cXVnODRwZ214aDBhcDVtYnV6czZlc2szY2cxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif))
 
 <h1 align="center">Hi 👋, I'm Kumar Utkarsh</h1>
 <h3 align="center">Aspiring Cybersecurity Analyst | Passionate about Threat Analysis, Defensive Security & Ethical Hacking</h3>
